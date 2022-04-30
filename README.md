@@ -19,5 +19,3 @@
 
 <div>
   
-<a href="https://bit.ly/Raganork"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
--->
