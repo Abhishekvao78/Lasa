@@ -1,13 +1,11 @@
 
-  
-<a href="https://raganork-qr.herokuapp.com/api"><img align="center" src="https://https://i.imgur.com/KzTgrlC.jpeg"
 <br>
 <div>
 <br>
   
-<a href="https://raganork-api.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://raganork-api.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://" alt="Deploy bot" height="112" width="310" /></a>
   <div>
-<br>
+<br>https://i.imgur.com/KzTgrlC.jpeg
 <a href="https://github.com/sou6av/raganork-md-deploy/fork"><img align="center" src="https://i.imgur.com/rM1IC4u.png" alt="Fork and deploy" height="112" width="300" /></a>
 <div>
   <br>
