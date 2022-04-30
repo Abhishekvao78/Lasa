@@ -1,10 +1,3 @@
-#### NO MORE UPDATES IN LASA ...COMING WITH A NEW BOT SOON🙂💖
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/) 
-
-
-<div align="center">
-</p>
-
 
 <div align="center">
 <img src="media/Lasaimg.jpg" alt="Pepe" width="170" />
