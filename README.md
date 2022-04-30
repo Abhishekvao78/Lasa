@@ -51,7 +51,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 
 ### `THANKS TO`
-* 𝙳𝙴𝙽𝙸𝚂 𝚂𝙸𝚁
+* CREDITS
 * [`FOX 𝚂𝙸𝚁`](https://github.com/Abhishekao78)
 * [`MASS 𝚂𝙸𝚁`](https://github.com/MASS-SER)
 * [`4TDS`](https://github.com/4IDTS)
