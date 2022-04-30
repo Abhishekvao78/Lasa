@@ -1,6 +1,6 @@
 
   
-<a href="https://raganork-qr.herokuapp.com/api"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://raganork-qr.herokuapp.com/api"><img align="center" src="https://https://i.imgur.com/KzTgrlC.jpeg" alt="Scan QR" height="112" width="300" /></a>
 <br>
 <div>
 <br>
